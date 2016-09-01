@@ -1,0 +1,1 @@
+M:\Documents\GitHub\Tool\Tool\Tool\Tool.csproj;x86

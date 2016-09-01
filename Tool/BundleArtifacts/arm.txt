@@ -1,0 +1,2 @@
+MainPackage=M:\Documents\Visual Studio 2015\Projects\Tool\Tool\bin\ARM\Release\Tool_1.0.0.0_ARM.appx
+SymbolPackage=M:\Documents\Visual Studio 2015\Projects\Tool\Tool\AppPackages\Tool_1.0.0.0_Test\Tool_1.0.0.0_ARM.appxsym
